@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "b7cd3d25-6653-451a-9e2f-d141278750a9",
+    "colId": "history",
+    "containerId": "",
+    "name": "https://645aa29465bd868e9320e9ae.mockapi.io/users",
+    "url": "https://645aa29465bd868e9320e9ae.mockapi.io/users",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2023-05-09T19:49:19.767Z",
+    "modified": "2023-05-09T19:49:19.767Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  },
+  {
+    "_id": "921c5c90-23b2-4e74-addd-ff390b2aee01",
+    "colId": "history",
+    "containerId": "",
+    "name": "https://645aa29465bd868e9320e9ae.mockapi.io/users",
+    "url": "https://645aa29465bd868e9320e9ae.mockapi.io/users",
+    "method": "POST",
+    "sortNum": 0,
+    "created": "2023-05-09T19:49:25.759Z",
+    "modified": "2023-05-09T19:52:23.297Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"name\": \"Juan Luis\",\n  \"email\": \"test@test.com\",\n  \"password\": \"test123\"\n}",
+      "form": []
+    },
+    "tests": []
+  }
+]

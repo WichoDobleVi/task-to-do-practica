@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "32b16059-c885-4848-b60f-c7ed4dddff27",
+    "colName": "users",
+    "created": "2023-05-09T19:54:51.040Z",
+    "sortNum": 10000,
+    "folders": []
+  },
+  {
+    "_id": "66deab31-a246-42da-a3c8-e58c898b1a3f",
+    "colName": "task",
+    "created": "2023-05-09T19:56:50.136Z",
+    "sortNum": 20000,
+    "folders": []
+  }
+]
